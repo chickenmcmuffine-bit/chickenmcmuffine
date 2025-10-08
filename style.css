@@ -9,7 +9,7 @@ h1 {
 h2 {
   color: red;
   text-align: left;
-  text-transformation: capitalize;
+  text-transform: capitalize;
   text-decoration: overline;
 }
 
