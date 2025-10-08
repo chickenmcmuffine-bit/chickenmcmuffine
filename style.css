@@ -1,1 +1,30 @@
+h1 {
+  color: blue;
+  font-size: 12px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
 
+h2 {
+  color: red;
+  text-align: left;
+  text-transformation: capitalize;
+  text-decoration: overline;
+}
+
+p {
+  color: black;
+  text-indent: 100px;
+  letter-spacing: 2px;
+  word-spacing: 4px;
+  line-height: 20px;
+}
+
+ul {
+  text-align: left;
+}
+
+body {
+  font-family: sans-serif;
+}
