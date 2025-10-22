@@ -23,11 +23,12 @@ body {
 
 #c-text {
   background-color: #124D1F;
-  padding: 30px;
+  padding: 3%;
+  margin: 10% auto;
   text-align: center;
   color: #FFFFFF;
   width: 500px;
-  border-radius: 8px;
+  border-radius: 12px;
 }
 
 #colour {
@@ -39,11 +40,11 @@ body {
 }
 
 #text {
-  background-color: #124D1F;
-  padding: 20px;
+  background-color: #0E3E18;
+  padding: 5%;
   margin-top: 20px;
   text-align: center;
   color: #FFFFFF;
-  width: 100%;
+  width: 90%;
   border-radius: 8px;
 }
