@@ -16,10 +16,9 @@ body {
   border-radius: 8px;
 }
 
-#c-text {
+#c-text{
   background-color: #124D1F;
-  padding: 3%;
-  margin: 10% auto;
+  margin: 0 auto;
   text-align: center;
   color: #FFFFFF;
   width: 500px;
